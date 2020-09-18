@@ -1,10 +1,18 @@
-# 1MD3T1B1M1QE
+# Button_Switch_THT.pretty
 
-[Interrupteur à levier, On-Off-On, 2RT, 5 A @ 28 V c.c.](https://www.tme.eu/en/details/1md3t1b1m1qe/toggle-switches/)
+TODO: Add to official Button_Switch_THT.pretty
+
+---
+
+## SW_TME_1MD3T1B1M1QE_DPDT_Straight.kicad_mod
+
+Interrupteur à levier, On-Off-On, 2RT, 5 A @ 28 V c.c.
+
+[1MD3T1B1M1QE](https://www.tme.eu/en/details/1md3t1b1m1qe/toggle-switches/)
 
 ![SW_TME_1MD3T1B1M1QE_DPDT_Straight](image_toggle_switches_1md3t1b1m1qe.png)
 
-## Sourcing
+### Sourcing
 
 | Fournisseur   |                                     Code Commande                                     | Description                                                                               | Minimum commande |
 | :------------ | :-----------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------- | :--------------: |
