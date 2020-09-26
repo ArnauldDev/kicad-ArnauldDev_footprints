@@ -1,10 +1,10 @@
-(module SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal (layer F.Cu) (tedit 5F649D86)
+(module SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Red (layer F.Cu) (tedit 5F6EFDDA)
   (descr "Single banana socket, footprint - 4mm drill, https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf")
   (tags "banana socket 4mm")
   (fp_text reference REF** (at 7.4 0 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal (at -1.4 8) (layer F.Fab)
+  (fp_text value SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Red (at -1.4 8) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -27.5 5.5) (end -27.5 -5.5) (layer F.Fab) (width 0.12))
@@ -30,7 +30,7 @@
   (pad "" thru_hole circle (at 3.8 -5.08) (size 3 3) (drill 1.2) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -6.36 5.08) (size 3 3) (drill 1.2) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -6.36 -5.08) (size 3 3) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${ARNAULDDEV_SYS3DMOD}/ArnauldDev_Connector_Banana.3dshapes/SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal.step
+  (model ${KISYS3DMOD_ARNAULDDEV}/ArnauldDev_Connector_Banana.3dshapes/SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Red.step
     (offset (xyz -13.5 0 5.45))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))
